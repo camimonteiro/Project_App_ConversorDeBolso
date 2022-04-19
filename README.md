@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge&logo=cachet" height="30em"><br>
 
 <h2 id="sobre">Sobre o projeto 🔎</h2>
-<p> Conversor de Bolso é um app desenvolvido para iOS utilizando UIKit. O objetivo do app é criar um conversor de medidas de bolso, de forma que o usuário possa rapidamente realizar a conversão de: temperatura, peso, moeda e distância.<br>
+<p> Conversor de Bolso é um app desenvolvido para iOS utilizando UiKit. O objetivo do app é criar um conversor de medidas de bolso, de forma que o usuário possa rapidamente realizar a conversão de: temperatura, peso, moeda e distância.<br>
 
 Esse projeto está sendo desenvolvido para fins educativos, como exercício do curso completo de desenvolvimento mobile - iOs/Swift do Eric Alves Brito.</p>
 
